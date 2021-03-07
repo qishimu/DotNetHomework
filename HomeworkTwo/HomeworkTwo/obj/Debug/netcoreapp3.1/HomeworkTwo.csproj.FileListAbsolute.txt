@@ -1,0 +1,13 @@
+D:\软件代码\HomeworkTwo\HomeworkTwo\bin\Debug\netcoreapp3.1\HomeworkTwo.exe
+D:\软件代码\HomeworkTwo\HomeworkTwo\bin\Debug\netcoreapp3.1\HomeworkTwo.deps.json
+D:\软件代码\HomeworkTwo\HomeworkTwo\bin\Debug\netcoreapp3.1\HomeworkTwo.runtimeconfig.json
+D:\软件代码\HomeworkTwo\HomeworkTwo\bin\Debug\netcoreapp3.1\HomeworkTwo.runtimeconfig.dev.json
+D:\软件代码\HomeworkTwo\HomeworkTwo\bin\Debug\netcoreapp3.1\HomeworkTwo.dll
+D:\软件代码\HomeworkTwo\HomeworkTwo\bin\Debug\netcoreapp3.1\HomeworkTwo.pdb
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.csprojAssemblyReference.cache
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.AssemblyInfoInputs.cache
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.AssemblyInfo.cs
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.csproj.CoreCompileInputs.cache
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.dll
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.pdb
+D:\软件代码\HomeworkTwo\HomeworkTwo\obj\Debug\netcoreapp3.1\HomeworkTwo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\软件代码\HomeworkTwo\Four\bin\Debug\netcoreapp3.1\Four.exe
+D:\软件代码\HomeworkTwo\Four\bin\Debug\netcoreapp3.1\Four.deps.json
+D:\软件代码\HomeworkTwo\Four\bin\Debug\netcoreapp3.1\Four.runtimeconfig.json
+D:\软件代码\HomeworkTwo\Four\bin\Debug\netcoreapp3.1\Four.runtimeconfig.dev.json
+D:\软件代码\HomeworkTwo\Four\bin\Debug\netcoreapp3.1\Four.dll
+D:\软件代码\HomeworkTwo\Four\bin\Debug\netcoreapp3.1\Four.pdb
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.csprojAssemblyReference.cache
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.AssemblyInfoInputs.cache
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.AssemblyInfo.cs
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.csproj.CoreCompileInputs.cache
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.dll
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.pdb
+D:\软件代码\HomeworkTwo\Four\obj\Debug\netcoreapp3.1\Four.genruntimeconfig.cache

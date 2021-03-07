@@ -1,0 +1,13 @@
+D:\软件代码\HomeworkTwo\Three\bin\Debug\netcoreapp3.1\Three.exe
+D:\软件代码\HomeworkTwo\Three\bin\Debug\netcoreapp3.1\Three.deps.json
+D:\软件代码\HomeworkTwo\Three\bin\Debug\netcoreapp3.1\Three.runtimeconfig.json
+D:\软件代码\HomeworkTwo\Three\bin\Debug\netcoreapp3.1\Three.runtimeconfig.dev.json
+D:\软件代码\HomeworkTwo\Three\bin\Debug\netcoreapp3.1\Three.dll
+D:\软件代码\HomeworkTwo\Three\bin\Debug\netcoreapp3.1\Three.pdb
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.csprojAssemblyReference.cache
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.AssemblyInfoInputs.cache
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.AssemblyInfo.cs
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.csproj.CoreCompileInputs.cache
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.dll
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.pdb
+D:\软件代码\HomeworkTwo\Three\obj\Debug\netcoreapp3.1\Three.genruntimeconfig.cache
