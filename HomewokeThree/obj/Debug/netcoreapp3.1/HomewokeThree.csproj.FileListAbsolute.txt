@@ -1,0 +1,13 @@
+D:\软件代码\HomewokeThree\HomewokeThree\bin\Debug\netcoreapp3.1\HomewokeThree.exe
+D:\软件代码\HomewokeThree\HomewokeThree\bin\Debug\netcoreapp3.1\HomewokeThree.deps.json
+D:\软件代码\HomewokeThree\HomewokeThree\bin\Debug\netcoreapp3.1\HomewokeThree.runtimeconfig.json
+D:\软件代码\HomewokeThree\HomewokeThree\bin\Debug\netcoreapp3.1\HomewokeThree.runtimeconfig.dev.json
+D:\软件代码\HomewokeThree\HomewokeThree\bin\Debug\netcoreapp3.1\HomewokeThree.dll
+D:\软件代码\HomewokeThree\HomewokeThree\bin\Debug\netcoreapp3.1\HomewokeThree.pdb
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.csprojAssemblyReference.cache
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.AssemblyInfoInputs.cache
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.AssemblyInfo.cs
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.csproj.CoreCompileInputs.cache
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.dll
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.pdb
+D:\软件代码\HomewokeThree\HomewokeThree\obj\Debug\netcoreapp3.1\HomewokeThree.genruntimeconfig.cache
