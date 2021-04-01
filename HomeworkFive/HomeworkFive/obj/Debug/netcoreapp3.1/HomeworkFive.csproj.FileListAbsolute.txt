@@ -1,0 +1,13 @@
+D:\软件代码\HomeworkFive\HomeworkFive\bin\Debug\netcoreapp3.1\HomeworkFive.exe
+D:\软件代码\HomeworkFive\HomeworkFive\bin\Debug\netcoreapp3.1\HomeworkFive.deps.json
+D:\软件代码\HomeworkFive\HomeworkFive\bin\Debug\netcoreapp3.1\HomeworkFive.runtimeconfig.json
+D:\软件代码\HomeworkFive\HomeworkFive\bin\Debug\netcoreapp3.1\HomeworkFive.runtimeconfig.dev.json
+D:\软件代码\HomeworkFive\HomeworkFive\bin\Debug\netcoreapp3.1\HomeworkFive.dll
+D:\软件代码\HomeworkFive\HomeworkFive\bin\Debug\netcoreapp3.1\HomeworkFive.pdb
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.csprojAssemblyReference.cache
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.AssemblyInfoInputs.cache
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.AssemblyInfo.cs
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.csproj.CoreCompileInputs.cache
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.dll
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.pdb
+D:\软件代码\HomeworkFive\HomeworkFive\obj\Debug\netcoreapp3.1\HomeworkFive.genruntimeconfig.cache
